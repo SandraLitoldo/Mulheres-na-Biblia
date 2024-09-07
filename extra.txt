@@ -1,0 +1,30 @@
+    {
+        personagem:  "Raabe",
+        historia: "Uma prostituta cananeia que ajudou os espias israelitas e foi abençoada por Deus, tornando-se parte do povo de Israel.",
+        link:" https://www.bibliaon.com/josue_2/"
+    },
+    {
+        personagem: "Rute",
+        historia: "Uma moabita que escolheu seguir a sogra, Rute, e se tornou parte do povo de Israel, sendo avó do rei Davi.",
+        link: "https://www.bibliaon.com/rute/"
+    },
+    {
+        personagem: "Debora",
+        historia: "Profetisa e juíza de Israel, liderou o povo em uma guerra vitoriosa contra os cananeus.",
+        link:" https://www.bibliaon.com/juizes_4/"
+    },
+    {
+        personagem: "Ester",
+        historia: "Uma judia que se tornou rainha da Pérsia e salvou seu povo do extermínio.",
+        link : "https://www.bibliaon.com/ester/"
+    },
+    {
+        personagem: "Maria", 
+        historia: "A mãe de Jesus, escolhida por Deus para ser a mãe do Messias.",
+        link: "https://www.bibliaon.com/lucas_1/"
+    },
+    {
+        personagem: "Maria Madalena",
+        historia: "Uma das mulheres que seguiram Jesus e esteve presente em sua crucificação e ressurreição.",
+       link: "https://www.bibliaon.com/joao_20/"
+    }     
