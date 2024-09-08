@@ -32,7 +32,7 @@ function pesquisar() {
               <a href="#" target="_blank">${dado.personagem}</a>
               </h2>
               <p class="descricao-meta">${dado.historia}</p>
-              <a href=${dado.link} target="_blank">Leia a Bíblia online</a>
+              <a href=${dado.link} target="_blank">Localização na biblia</a>
           </div>
           `;
         }
